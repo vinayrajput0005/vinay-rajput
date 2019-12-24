@@ -1,8 +1,8 @@
 #!/bin/sh
 #@srm.vinay0005@gmail.com
 ###########################INPUT FILES #####################################
-diamond_out_file="/home/ncim/rky/BSL01_VGs"  #set_diamond_output_file_location
-database="/home/ncim/rky/VFDB_setA_pro.fas"  #set_database_file_location
+diamond_out_file="/home/***/***/***"  #set_diamond_output_file_location
+database="/home/****/****/****.fas"  #set_database_file_location
 ############################################################################
 dir=$PWD
 Ids="$dir/IDS.txt"  
