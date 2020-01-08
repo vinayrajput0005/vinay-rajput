@@ -3,7 +3,7 @@
 ###########################INPUT FILES & VARIABLE_SETTING#####################################
 ############################################################################
 dir=$PWD
-nanoARG_file="$dir/NanoARG_data_ganga.txt"  
+nanoARG_file="$dir/NanoARG_data_.txt"  
 temp1_category="$dir/category.txt"
 type="ARG"
 category_wise_file="$dir/All_samples_ARG.txt"
